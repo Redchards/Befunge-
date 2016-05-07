@@ -3,9 +3,11 @@ Simplistic Befugne 93 compliant befunge interpreter written in C++. Mainly a stu
 
 # How to build
 Simply run the provided makefile, with the desired platform and compilation mode, like this :
+
 ```make mode-platform```
 
 Here are the different possibility for the 'mode-platform' parameter :
+
 |Parameter  |Effect                 							|
 |---------- |---------------------------------------------------|
 |debug      |Build the debug version for your current platform  |
